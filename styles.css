@@ -1,13 +1,19 @@
 
 html {
-    background-color: black;
+    background-color: greenyellow;
     color: white;
     
+}
+
+body {
+    margin: 8px;
+    background-color: black;
 }
 
 h1 {
     box-align:"center";
     font-size: 45px;
+    padding-top: 28px;
     
 }
 h2 {
@@ -49,6 +55,10 @@ img {
 
   p.testP {
     color: greenyellow;
+  }
+
+  footer {
+    padding-bottom: 10px;
   }
 
  
