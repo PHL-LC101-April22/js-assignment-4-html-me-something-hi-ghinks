@@ -1,1 +1,65 @@
-/* Write your CSS here! */
+
+html {
+    background-color: greenyellow;
+    color: white;
+    
+}
+
+body {
+    margin: 8px;
+    background-color: black;
+}
+
+h1 {
+    box-align:"center";
+    font-size: 45px;
+    padding-top: 28px;
+    
+}
+h2 {
+    margin-left: 150px;
+    font-size: 32px;
+}
+
+h4 {
+    margin-top: -15px;
+}
+
+p {
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-left: 250px;
+    margin-right: 250px;
+
+    padding: 25px;
+}
+
+img.captions {
+    font-size: 10px;
+}
+
+
+img {
+    width: 40%;
+    height: 40%;
+    border: 5px solid #ffff;
+  }
+
+
+
+  #mainHeading {
+    color: red;
+    margin-top: -25px;
+    font-size: 18px;
+  }
+
+
+p.funParagraph {
+    color: green;
+}
+
+  footer {
+    padding-bottom: 10px;
+  }
+
+ 
