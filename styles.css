@@ -45,7 +45,7 @@ img {
     border: 5px solid #ffff;
   }
 
-  mainHeading {
+  p.mainHeading {
     color: red;
     margin-top: -75px;
     
@@ -53,9 +53,10 @@ img {
     text-align: center;
   }
 
-  p.testP {
-    color: greenyellow;
-  }
+
+p.funParagraph {
+    color: green;
+}
 
   footer {
     padding-bottom: 10px;
